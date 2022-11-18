@@ -12,7 +12,7 @@ It was created to serve to a especific mission: To be tiny, simple, strong, fast
 
 ### How to use it:
 
-Simply include the file in your project, then invoke the encrypt / decrypt function as follow:
+Simply include the file xorpher.js or the function "xorpher" itself in your project, then invoke the encrypt / decrypt function as follow:
 
 ```javascript
 let encrypted = xorpher().encrypt("That's my secret message! 😀", "slk3@#!@2*CT3a1&");
