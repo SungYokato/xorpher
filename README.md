@@ -18,7 +18,7 @@ Simply include the file in your project, then invoke the encrypt / decrypt funct
 let encrypt = xorpher().encrypt("That's my secret message! 😀", "slk3@#!@2*CT3a1&");
 console.log(encrypt);
 
-let decrypt = xorpher().decrypt(encode, "slk3@#!@2*CT3a1&");
+let decrypt = xorpher().decrypt(encrypt, "slk3@#!@2*CT3a1&");
 console.log(decrypt); //That's my secret message! 😀
 ```
 
