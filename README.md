@@ -1,6 +1,6 @@
 # xorpher
 
-Xopher is a tiny and strong XOR / Stream Chipher Unicode compatible, made in JS. Only (1.75 KB)
+Xopher is a tiny and strong XOR Stream Chipher, Unicode compatible, made in JS. Only (1.75 KB)
 
 The main difference from other similar solutions is that for the same plaintext and key it will always generate a different ciphertext every time the encryption function is invoked, so there is no shared pattern between the resulting ciphertexts even from the same plaintext, resulting in "pseudo" one-time pad (OTP) that makes it really reliable against attacks. If the attacker knows nothing about the content of the message, its nearly impossible to break. Of corurse you have to use a strong key at least 12+ alphanumeric and special characters. A weak key can be easily brute forced using the algorithm itself. If possible use a key that has the same length of the message you are encrypting.
 
