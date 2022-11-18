@@ -15,10 +15,10 @@ It was created to serve to a especific mission: To be tiny, simple, strong, fast
 Simply include the file xorpher.js or the function "xorpher" itself in your project, then invoke the encrypt / decrypt functions as follow:
 
 ```javascript
-let encrypted = xorpher().encrypt("That's my secret message! 😀", "slk3@#!@2*CT3a1&");
+let encrypted = xorpher().encrypt("That's my secret message! 😀", "M4aKV#C20%q1Hq&V");
 console.log(encrypted);
 
-let decrypted = xorpher().decrypt(encrypted, "slk3@#!@2*CT3a1&");
+let decrypted = xorpher().decrypt(encrypted, "M4aKV#C20%q1Hq&V");
 console.log(decrypted); //That's my secret message! 😀
 ```
 
