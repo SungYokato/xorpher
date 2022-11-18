@@ -26,9 +26,12 @@ console.log(decrypted); //That's my secret message! 😀
 
 I would love to see someone trying to break the following encrypted message:
 
+```
 ъϚώθϒϊϏΔΛΨ⏛ζϕ΢ΨΗαϭιΒ΢ϞηТѣμϸϸΦѬѭѤϼενΦ΂ѵυΚѻѥѤзΉѱΙΜлѸΆѨѮ΃ΕЁ΃Μ΅ΟΑϔΚтЊѴѮЊΉΉѤΜѠХњѡєџэѪрРўЎСТЦЧѰТѼѲЦѱѳЧЯЧѿͮфѿЫЭѥфѹщдИсѠъЛЗЇІЄѯѐЁѬђёљЂЌўљђўћљљєЋЋѰЧуцШЦѺръѵѼѾѣэ
-
+```
+```
 ռҊӏҔқժԀՁՊҝ┱ҌӛҐҐҗҋӜ՜ըծԓսԑՕժԯԗտխըաԱա՝խխձՠննԲաեԫհԹԽԹԮղԻ՗Ֆջհ՗ՇՑՅԼԎՄՈԎ՛՞ռ՘ԭ՗ՖԁՆՔԏՓՕԘՐԒՀԓ՝ԎԢ՜ԦԥճՌԠԬԣԬՈԬշԬҠԶաեִջ԰԰קרթԾֽԾժկּ՗״ֽ՗֢՚֧֡ԅ֪֦֮֮֡ՙ׻׾Ԗ֦ԐԔՂ׀ՄՅԕ׃֛Ռ֘ՆՎְֳւ
+```
 
 *These two different ciphertexts above contain the exactly same message and has been used the same key to encrypt both, by just running the algorithm twice. enjoy!
 
