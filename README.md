@@ -15,11 +15,11 @@ It was created to serve to a especific mission: To be tiny, simple, strong, fast
 Simply include the file in your project, then invoke the encrypt / decrypt function as follow:
 
 ```javascript
-let encrypt = xorpher().encrypt("That's my secret message! 😀", "slk3@#!@2*CT3a1&");
-console.log(encrypt);
+let encrypted = xorpher().encrypt("That's my secret message! 😀", "slk3@#!@2*CT3a1&");
+console.log(encrypted);
 
-let decrypt = xorpher().decrypt(encrypt, "slk3@#!@2*CT3a1&");
-console.log(decrypt); //That's my secret message! 😀
+let decrypted = xorpher().decrypt(encrypted, "slk3@#!@2*CT3a1&");
+console.log(decrypted); //That's my secret message! 😀
 ```
 
 ### Challenge:
